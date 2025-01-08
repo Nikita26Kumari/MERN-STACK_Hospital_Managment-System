@@ -1,4 +1,5 @@
 Hospital Management System
+
 Overview
 The Hospital Management System is a web application built with the MERN stack to efficiently manage hospital operations, including patient records, doctor schedules, and appointment bookings.
 
